@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977524114077",
+    "project_id": "test-1-b1077",
+    "storage_bucket": "test-1-b1077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977524114077:android:a8b925d382da071268ca74",
+        "android_client_info": {
+          "package_name": "com.example.earnrupee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977524114077-c760bvaii1rdvrgif6pb39hj56m3cabr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGIBwbMgs86eiusvACh4UmG5JnyCnddA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977524114077-c760bvaii1rdvrgif6pb39hj56m3cabr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
